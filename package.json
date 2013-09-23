@@ -1,0 +1,21 @@
+{
+  "name": "organic-expressHttpPages",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./tests/"
+  },
+  "dependencies": {
+    "organic": "0.1.1",
+    "underscore": "1.4.4",
+    "glob": "3.1.14",
+    "first": "0.0.3",
+    "async": "0.2.5"
+  },
+  "devDependencies": {
+    "jasmine-node": "latest",
+    "request": "latest",
+    "shelljs": "latest"
+  },
+  "license": "MIT"
+}
